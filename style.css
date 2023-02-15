@@ -1,0 +1,38 @@
+body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    /*change*/
+}
+
+input {
+    color: white;
+    font-weight: bold;
+    width: 5.5em;
+    height: 2.2em;
+    border: none;
+
+}
+
+input:hover {
+    cursor: pointer;
+}
+
+.Start {
+    background-color: green;
+}
+
+.Pause {
+    background-color: grey;
+}
+
+.Stop {
+    background-color: red;
+}
+
+#watch {
+    font-size: 2em;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
